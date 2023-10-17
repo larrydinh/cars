@@ -9,4 +9,5 @@
       href: speed-and-distance.html
   output:
     html_document:
-      theme: "cosmo"
+      theme: cosmo
+      highlight: textmate
