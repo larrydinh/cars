@@ -1,5 +1,5 @@
 ---
-title: "index.Rmd"
+title: "index"
 output: html_document
 date: "`r Sys.Date()`"
 ---
